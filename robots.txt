@@ -1,0 +1,8 @@
+
+User-agent: *
+Disallow: 
+Disallow: /admin
+
+Host:rx-line.com.ua
+
+Sitemap: https://rx-line.com.ua/sitemap.xml
